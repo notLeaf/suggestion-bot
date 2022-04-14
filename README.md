@@ -36,3 +36,6 @@ It can take up to 1 hour until the slash commands are displayed
 - [Discord Server](https://discord.gg/yfD2Vmnr6F) - My `Discord Server`
 - [GitHub](https://github.com/notLeaf/leaf-utils) - Leaf-utils `Github`
 - [NPM](https://www.npmjs.com/package/leaf-utils) - Leaf-utils `NPM`
+
+## Preview
+https://user-images.githubusercontent.com/70775569/163366321-f425d330-501b-4168-a98e-9018665bd8df.mp4
